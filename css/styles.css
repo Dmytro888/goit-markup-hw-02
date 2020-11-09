@@ -132,7 +132,7 @@ text-align: center;
 /* porfolio */
 
 .portfolio-title {
-    color: var(--title-text)
+    color: var(--title-text);
     font-weight: 700;
 font-size: 18px;
 line-height: 2;
