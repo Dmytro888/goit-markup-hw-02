@@ -35,8 +35,13 @@ body {
   color: var(--accent);
 }
 
+/* remarks */
+
 .list {
   list-style: none;
+}
+.title-invisable {
+  display: none;
 }
 
 /* site nav */
