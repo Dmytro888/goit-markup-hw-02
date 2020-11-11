@@ -55,7 +55,7 @@ body {
   text-decoration: none;
 }
 .site-contacts .link {
-  color: var(--title-text);
+  color: var(--primary-text);
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
